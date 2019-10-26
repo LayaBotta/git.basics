@@ -3,3 +3,4 @@
 
 ### Basic Commands
 - version check ``` git --version ```
+- status check ``` git status ```
