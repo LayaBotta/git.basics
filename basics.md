@@ -13,3 +13,5 @@
 - To push the changes to local Git repository
 ```git commit -m <<commit message all in small>>```
 - To push the changes to respository ```git push```
+
+> Alternatively we can use any IDE like visual code or webstorm or intellijIdea or eclipse
