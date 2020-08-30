@@ -21,4 +21,6 @@ Intially delete the documents in local respository
 > By following the above step changes done will be seen in local respository
 * Now come down and click on Synchronizer changes option and let the timer complete
 > Now changes will be available in remote respository
-
+## To get a remote respository locally
+* Create a folder in your local machine.
+* Go to respective folder through termnal and type``` git clone <<Paste the URL>>```
